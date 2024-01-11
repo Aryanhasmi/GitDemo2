@@ -1,0 +1,1 @@
+console.log("This my first class in GIT")
